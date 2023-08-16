@@ -1,1 +1,43 @@
-/*  your css code here. If applicable */
+body
+{
+    background-color: rgb(204, 204, 204)
+}
+
+#my-playlist
+{
+    text-align: center;
+}
+
+#now-playing
+{
+    text-align: center;
+}
+
+#mp3
+{
+    text-align: center;
+}
+
+.list-item
+{
+    list-style-type: none;
+}
+
+.link
+{
+    text-decoration-line: none;
+}
+
+.player_one
+{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+     border-radius: 20%;
+}
+
+.player_two
+{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 20%;
+}
